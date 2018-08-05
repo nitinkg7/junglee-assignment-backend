@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Axis Bank",
+    "is_popular": true
+  },
+  {
+    "id": 2,
+    "name": "State Bank of India",
+    "is_popular": true
+  },
+  {
+    "id": 3,
+    "name": "HDFC Bank",
+    "is_popular": true
+  },
+  {
+    "id": 4,
+    "name": "ICICI Bank",
+    "is_popular": true
+  },
+  {
+    "id": 5,
+    "name": "Kotak Mahindra Bank",
+    "is_popular": false
+  },
+  {
+    "id": 6,
+    "name": "Punjab National Bank",
+    "is_popular": false
+  },
+  {
+    "id": 7,
+    "name": "Bank 1",
+    "is_popular": false
+  },
+  {
+    "id": 8,
+    "name": "Bank 2",
+    "is_popular": false
+  },
+  {
+    "id": 9,
+    "name": "Bank 3",
+    "is_popular": false
+  }
+]

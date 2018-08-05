@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "bonus_price": 1500,
+    "custom_price": 2000,
+    "order": 1
+  },
+  {
+    "id": 2,
+    "bonus_price": 1000,
+    "custom_price": 1000,
+    "order": 2
+  },
+  {
+    "id": 3,
+    "bonus_price": 500,
+    "custom_price": 500,
+    "order": 3
+  },
+  {
+    "id": 4,
+    "bonus_price": 0,
+    "custom_price": 100,
+    "order": 4
+  }
+]
